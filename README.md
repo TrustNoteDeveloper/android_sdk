@@ -18,7 +18,7 @@ TTT wallet is Fast, Light, Sweet crypto wallet, We recommend below document to u
 
 Integrating the SDK into your project manually
 
-* [Download the latest SDK](https://github.com/trustnote/****.zip) TODO:update url
+* [Download the latest SDK](hhttps://github.com/TrustNoteDevelopers/android_sdk/raw/master/ttt_wallet_sdk_v0.1.aar)
 * Extract the ttt_wallet_sdk_v***.aar package from the zip file
 * Copy the aar to module's libs folder
 * Add below code in the module's build.gradle：
