@@ -25,8 +25,7 @@ Integrating the SDK into your project manually
 
 ``` 
     dependencies {
-    implementation fileTree(include: ['*.aar'], dir: 'libs')
-        compile files('libs/ttt_wallet_sdk_v***.aar')
+        implementation files('libs/ttt_wallet_sdk_v0.1.aar')
     }
 ```
 ### <a name="obfuscation">Android code obfuscation</a> 
